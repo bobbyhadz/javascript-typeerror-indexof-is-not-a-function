@@ -48,7 +48,7 @@ console.log(result2); // 👉️ 1
 
 // // ----------------------------------------------------------
 
-// // ✅ check if the value is an Array before using indexOf()
+// // EXAMPLE 4 - Check if the value is an Array before using indexOf()
 
 // const set = new Set(['a', 'b', 'c']);
 
